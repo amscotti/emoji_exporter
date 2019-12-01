@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/emoji_exporter
+emoji_exporter.so
+emoji_exporter.dylib
+emoji_exporter.dll
+emoji_exporter.a
+emoji_exporter.lib
+emoji_exporter-test-*
+*.exe
+*.o
+*.obj
+*.lst
+downloads

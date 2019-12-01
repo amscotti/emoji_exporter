@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Anthony Scotti"
+	],
+	"copyright": "Copyright © 2019, Anthony Scotti",
+	"dependencies": {
+		"fast": "~>0.3.5"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "emoji_exporter"
+}
